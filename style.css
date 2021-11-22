@@ -1,0 +1,35 @@
+body,html{
+    font-family: 'Lucida Sans';
+    text-align: center;
+    height: 100%;
+}
+.game-box{
+    background: yellow;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0.,0,0,0.23);
+}
+.code-title{
+    text-align: center;
+    color: darkblue;
+    font-size: 30px;
+}
+
+.answer-item{
+    background: rgb(223, 201, 7);
+    width: 90%;
+    display: inline-block;
+    border-radius:8px;
+    padding: 3px;
+}
+#btn-start{
+    border:none;
+	padding:6px 0 6px 0;
+	border-radius:8px;
+	background:darkblue;
+    font-size: 35px;
+	color:yellow;
+}
+
+#code-title{
+    text-align: center;
+    font-weight: bold;
+}
